@@ -15,7 +15,7 @@ Follow the instructions for local environment: The user must have Node.js and np
 Clone the repo via CLI:
 
 ```sh
-git clone https://github.com/smitsgithub/mintfolio.git
+git clone https://github.com/InfiniteCoder100/Mintfolio.git
 cd mintfolio
 ```
 
