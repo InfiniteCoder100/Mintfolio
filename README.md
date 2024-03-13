@@ -34,3 +34,13 @@ yarn dev   #or
 ```
 
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### Creators
+
+| Name            | Github                                         | Discord         |
+| --------------- | ---------------------------------------------- | --------------- |
+| Kundan Kumar | [@Kundan](https://github.com/InfiniteCoder100)   | codefunky   |
+| Harsh Shende | [@harshshen](https://github.com/Harshshen)   | harsh shende  |
+
+### License
+MIT
