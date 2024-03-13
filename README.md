@@ -1,6 +1,6 @@
-# mintfolio
+# Mintfolio
 
-It is basic implementation of ERC721 with multi-chain support using rainbowkit. Mintfolio provides simple and easy user interface to mint the NFT and get all NFT balance at one place behind the scenes multi-call is made using a Moralis API which fetches NFT balance from cross-chain. The smart conract is deployed on Shardeum Liberty 2.1 and integrated with frontend using wagmi. 
+It is basic implementation of ERC721 with multi-chain support using rainbowkit. Mintfolio provides simple and easy user interface to mint the NFT and get all NFT balance at one place behind the scenes multi-call is made using a Moralis API which fetches NFT balance from cross-chain. The smart conract is deployed on Shardeum Dev Network and integrated with frontend using wagmi. 
 
 <img width="1422" alt="mintfolio" src="https://user-images.githubusercontent.com/79443588/233185557-d6c653d2-9fc0-40f7-bc7f-2706db6cdaa4.png">
 
