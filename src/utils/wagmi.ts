@@ -6,7 +6,7 @@ import { publicProvider } from "wagmi/providers/public";
 import { Chain } from "@rainbow-me/rainbowkit";
 
 const shardeum: Chain = {
-  id: 8081,
+  id: 8082,
   name: "Shardeum",
   network: "Shardeum Dev Network",
   nativeCurrency: {
